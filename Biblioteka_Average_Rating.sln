@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteka_Average_Rating", "Biblioteka_Average_Rating\Biblioteka_Average_Rating.csproj", "{94C55784-8303-4D99-9114-E9E89E83B231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteka_Average_RatingTests", "Biblioteka_Average_RatingTests\Biblioteka_Average_RatingTests.csproj", "{FE1E5607-8878-4378-9E8C-E15785388415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C55784-8303-4D99-9114-E9E89E83B231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C55784-8303-4D99-9114-E9E89E83B231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C55784-8303-4D99-9114-E9E89E83B231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C55784-8303-4D99-9114-E9E89E83B231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1E5607-8878-4378-9E8C-E15785388415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1E5607-8878-4378-9E8C-E15785388415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1E5607-8878-4378-9E8C-E15785388415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1E5607-8878-4378-9E8C-E15785388415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {343FEF82-6DC9-4C7D-9AA9-B58586937993}
+	EndGlobalSection
+EndGlobal
